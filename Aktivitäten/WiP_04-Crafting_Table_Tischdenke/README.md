@@ -3,6 +3,11 @@
 
 Ein essentieller Gegenstand im Spiel ist der Crafting Table. Könnte man nicht Tischdenken oder Platzdecken, wie einen crafting Table gestalten und den Kindern mit nach Hause geben?
 
+## Resourcen
+### Original Minecraft Texturen
+
+Im Order "textures" finden sich die original Texturen aus dem Spiel in Normalgröße und 50-fach vergrößert. Die .xcf Dateien sind Gimp Bilddateien dazu.
+
 ## Lizenz
 
 Copyright (C) 2026 Melanie Desaive
