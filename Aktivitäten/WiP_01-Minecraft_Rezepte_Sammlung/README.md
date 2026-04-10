@@ -13,9 +13,9 @@ Es gibt:
 * Gebratenen Fisch
 
 ## Resourcen
-### Original Minecraft Texturen
+### Rezepte in Unterordnern 
 
-Im Order "Rezepte" könnt Ihr gerne für gelungene Rezepte Bilder und Anleitungen mit hochladen! <3
+Erstellt gerne Unterordner für schöne Rezepte. Ich freue mich über Bilder und Anleitungen von gelungenen Rezepten <3
 
 ## Lizenz
 
