@@ -6,7 +6,7 @@ Im Spiel Minecraft müssen die Spielfiguren auch esssen. Wir kochen die Essen na
 Es gibt:
 * Brot
 * Backkartoffeln
-* Brathähnen - Steves Lava-Chicken
+* Brathähnchen - Steves Lava-Chicken
 * Rote-Beete Suppe
 * Pilzeintopf
 * Steack
