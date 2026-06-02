@@ -1,11 +1,3 @@
----
-**Copyright 2024 Melanie Desaive - melanie@desaive.de**
-
-Dieses Dokument ist Teil des Projekts **[Projektname]** und unterliegt der
-[GNU General Public License v3.0](LICENSE).
-
----
-
 Berlin, 4. April 2026
 
 # Projektkonzept Noops&Nerds
