@@ -777,7 +777,7 @@ $PINSBASE
  10
 0
  20
-0
+21.00222262478303
  30
 0
   9
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-123.3456205297009
+137.9643791432403
  22
-142.1770129769835
+143.9268253006912
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-209.4050840137823
+184.1733368634852
  41
 1.33273381294964
  42
@@ -204699,33 +204699,9 @@ unicode
  44
 1
   0
-LINE
-  5
-20DD
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-176.7125406039335
- 20
-258.0334560506067
- 11
-179.9914873543814
- 21
-254.7543032713857
-  0
 DIMENSION
   5
-20DE
+20DD
 100
 AcDbEntity
   8
@@ -204785,7 +204761,7 @@ AcDbAlignedDimension
   0
 LINE
   5
-20DF
+20DE
 100
 AcDbEntity
   8
@@ -204809,7 +204785,7 @@ AcDbLine
   0
 LINE
   5
-20E0
+20DF
 100
 AcDbEntity
   8
@@ -204833,7 +204809,7 @@ AcDbLine
   0
 LINE
   5
-20E1
+20E0
 100
 AcDbEntity
   8
@@ -204857,7 +204833,7 @@ AcDbLine
   0
 LINE
   5
-20E2
+20E1
 100
 AcDbEntity
   8
@@ -204881,7 +204857,7 @@ AcDbLine
   0
 LINE
   5
-20E3
+20E2
 100
 AcDbEntity
   8
@@ -204905,7 +204881,7 @@ AcDbLine
   0
 LINE
   5
-20E4
+20E3
 100
 AcDbEntity
   8
@@ -204929,7 +204905,7 @@ AcDbLine
   0
 LINE
   5
-20E5
+20E4
 100
 AcDbEntity
   8
@@ -204953,7 +204929,7 @@ AcDbLine
   0
 LINE
   5
-20E6
+20E5
 100
 AcDbEntity
   8
@@ -204977,7 +204953,7 @@ AcDbLine
   0
 LINE
   5
-20E7
+20E6
 100
 AcDbEntity
   8
@@ -205001,7 +204977,7 @@ AcDbLine
   0
 LINE
   5
-20E8
+20E7
 100
 AcDbEntity
   8
@@ -205025,7 +205001,7 @@ AcDbLine
   0
 LINE
   5
-20E9
+20E8
 100
 AcDbEntity
   8
@@ -205049,7 +205025,7 @@ AcDbLine
   0
 LINE
   5
-20EA
+20E9
 100
 AcDbEntity
   8
@@ -205073,7 +205049,7 @@ AcDbLine
   0
 LINE
   5
-20EB
+20EA
 100
 AcDbEntity
   8
@@ -205097,7 +205073,7 @@ AcDbLine
   0
 LINE
   5
-20EC
+20EB
 100
 AcDbEntity
   8
@@ -205121,7 +205097,7 @@ AcDbLine
   0
 LINE
   5
-20ED
+20EC
 100
 AcDbEntity
   8
@@ -205145,7 +205121,7 @@ AcDbLine
   0
 LINE
   5
-20EE
+20ED
 100
 AcDbEntity
   8
@@ -205169,7 +205145,7 @@ AcDbLine
   0
 LINE
   5
-20EF
+20EE
 100
 AcDbEntity
   8
@@ -205193,7 +205169,7 @@ AcDbLine
   0
 LINE
   5
-20F0
+20EF
 100
 AcDbEntity
   8
@@ -205217,7 +205193,7 @@ AcDbLine
   0
 LINE
   5
-20F1
+20F0
 100
 AcDbEntity
   8
@@ -205241,7 +205217,7 @@ AcDbLine
   0
 LINE
   5
-20F2
+20F1
 100
 AcDbEntity
   8
@@ -205265,7 +205241,7 @@ AcDbLine
   0
 LINE
   5
-20F3
+20F2
 100
 AcDbEntity
   8
@@ -205289,7 +205265,7 @@ AcDbLine
   0
 LINE
   5
-20F4
+20F3
 100
 AcDbEntity
   8
@@ -205313,7 +205289,7 @@ AcDbLine
   0
 LINE
   5
-20F5
+20F4
 100
 AcDbEntity
   8
@@ -205337,7 +205313,7 @@ AcDbLine
   0
 LINE
   5
-20F6
+20F5
 100
 AcDbEntity
   8
@@ -205361,7 +205337,7 @@ AcDbLine
   0
 LINE
   5
-20F7
+20F6
 100
 AcDbEntity
   8
@@ -205385,7 +205361,7 @@ AcDbLine
   0
 LINE
   5
-20F8
+20F7
 100
 AcDbEntity
   8
@@ -205409,7 +205385,7 @@ AcDbLine
   0
 LINE
   5
-20F9
+20F8
 100
 AcDbEntity
   8
@@ -205433,7 +205409,7 @@ AcDbLine
   0
 LINE
   5
-20FA
+20F9
 100
 AcDbEntity
   8
@@ -205457,7 +205433,7 @@ AcDbLine
   0
 LINE
   5
-20FB
+20FA
 100
 AcDbEntity
   8
@@ -205481,7 +205457,7 @@ AcDbLine
   0
 LINE
   5
-20FC
+20FB
 100
 AcDbEntity
   8
@@ -205505,7 +205481,7 @@ AcDbLine
   0
 LINE
   5
-20FD
+20FC
 100
 AcDbEntity
   8
@@ -205529,7 +205505,7 @@ AcDbLine
   0
 LINE
   5
-20FE
+20FD
 100
 AcDbEntity
   8
@@ -205553,7 +205529,7 @@ AcDbLine
   0
 LINE
   5
-20FF
+20FE
 100
 AcDbEntity
   8
@@ -205577,7 +205553,7 @@ AcDbLine
   0
 LINE
   5
-2100
+20FF
 100
 AcDbEntity
   8
@@ -205601,7 +205577,7 @@ AcDbLine
   0
 LINE
   5
-2101
+2100
 100
 AcDbEntity
   8
@@ -205625,7 +205601,7 @@ AcDbLine
   0
 LINE
   5
-2102
+2101
 100
 AcDbEntity
   8
@@ -205649,7 +205625,7 @@ AcDbLine
   0
 LINE
   5
-2103
+2102
 100
 AcDbEntity
   8
@@ -205673,7 +205649,7 @@ AcDbLine
   0
 LINE
   5
-2104
+2103
 100
 AcDbEntity
   8
@@ -205697,7 +205673,7 @@ AcDbLine
   0
 LINE
   5
-2105
+2104
 100
 AcDbEntity
   8
@@ -205718,6 +205694,30 @@ AcDbLine
 116.3495535207248
  21
 176.9632677732826
+  0
+LINE
+  5
+2105
+100
+AcDbEntity
+  8
+Schwerter
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+141.098794544238
+ 20
+173.4268685211198
+ 11
+151.705992953741
+ 21
+184.0334004816277
   0
 LINE
   5
@@ -205735,30 +205735,6 @@ ByLayer
 100
 AcDbLine
  10
-141.098794544238
- 20
-173.4268685211198
- 11
-151.705992953741
- 21
-184.0334004816277
-  0
-LINE
-  5
-2107
-100
-AcDbEntity
-  8
-Schwerter
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 151.705992953741
  20
 184.0334004816277
@@ -205769,7 +205745,7 @@ AcDbLine
   0
 LINE
   5
-2108
+2107
 100
 AcDbEntity
   8
@@ -205793,7 +205769,7 @@ AcDbLine
   0
 LINE
   5
-2109
+2108
 100
 AcDbEntity
   8
@@ -205817,7 +205793,7 @@ AcDbLine
   0
 LINE
   5
-210A
+2109
 100
 AcDbEntity
   8
@@ -205841,7 +205817,7 @@ AcDbLine
   0
 LINE
   5
-210B
+210A
 100
 AcDbEntity
   8
@@ -205865,7 +205841,7 @@ AcDbLine
   0
 LINE
   5
-210C
+210B
 100
 AcDbEntity
   8
@@ -205889,7 +205865,7 @@ AcDbLine
   0
 LINE
   5
-210D
+210C
 100
 AcDbEntity
   8
@@ -205913,7 +205889,7 @@ AcDbLine
   0
 LINE
   5
-210E
+210D
 100
 AcDbEntity
   8
@@ -205937,7 +205913,7 @@ AcDbLine
   0
 LINE
   5
-210F
+210E
 100
 AcDbEntity
   8
@@ -205961,7 +205937,7 @@ AcDbLine
   0
 LINE
   5
-2110
+210F
 100
 AcDbEntity
   8
@@ -205985,7 +205961,7 @@ AcDbLine
   0
 LINE
   5
-2111
+2110
 100
 AcDbEntity
   8
@@ -206009,7 +205985,7 @@ AcDbLine
   0
 LINE
   5
-2112
+2111
 100
 AcDbEntity
   8
@@ -206033,7 +206009,7 @@ AcDbLine
   0
 LINE
   5
-2113
+2112
 100
 AcDbEntity
   8
@@ -206057,7 +206033,7 @@ AcDbLine
   0
 LINE
   5
-2114
+2113
 100
 AcDbEntity
   8
@@ -206081,7 +206057,7 @@ AcDbLine
   0
 LINE
   5
-2115
+2114
 100
 AcDbEntity
   8
@@ -206105,7 +206081,7 @@ AcDbLine
   0
 LINE
   5
-2116
+2115
 100
 AcDbEntity
   8
@@ -206129,7 +206105,7 @@ AcDbLine
   0
 LINE
   5
-2117
+2116
 100
 AcDbEntity
   8
@@ -206153,7 +206129,7 @@ AcDbLine
   0
 LINE
   5
-2118
+2117
 100
 AcDbEntity
   8
@@ -206177,7 +206153,7 @@ AcDbLine
   0
 LINE
   5
-2119
+2118
 100
 AcDbEntity
   8
@@ -206201,7 +206177,7 @@ AcDbLine
   0
 LINE
   5
-211A
+2119
 100
 AcDbEntity
   8
@@ -206225,7 +206201,7 @@ AcDbLine
   0
 LINE
   5
-211B
+211A
 100
 AcDbEntity
   8
@@ -206249,7 +206225,7 @@ AcDbLine
   0
 LINE
   5
-211C
+211B
 100
 AcDbEntity
   8
@@ -206273,7 +206249,7 @@ AcDbLine
   0
 LINE
   5
-211D
+211C
 100
 AcDbEntity
   8
@@ -206297,7 +206273,7 @@ AcDbLine
   0
 LINE
   5
-211E
+211D
 100
 AcDbEntity
   8
@@ -206321,7 +206297,7 @@ AcDbLine
   0
 LINE
   5
-211F
+211E
 100
 AcDbEntity
   8
@@ -206345,7 +206321,7 @@ AcDbLine
   0
 LINE
   5
-2120
+211F
 100
 AcDbEntity
   8
@@ -206369,7 +206345,7 @@ AcDbLine
   0
 LINE
   5
-2121
+2120
 100
 AcDbEntity
   8
@@ -206393,7 +206369,7 @@ AcDbLine
   0
 LINE
   5
-2122
+2121
 100
 AcDbEntity
   8
@@ -206417,7 +206393,7 @@ AcDbLine
   0
 LINE
   5
-2123
+2122
 100
 AcDbEntity
   8
@@ -206441,7 +206417,7 @@ AcDbLine
   0
 LINE
   5
-2124
+2123
 100
 AcDbEntity
   8
@@ -206465,7 +206441,7 @@ AcDbLine
   0
 LINE
   5
-2125
+2124
 100
 AcDbEntity
   8
@@ -206489,7 +206465,7 @@ AcDbLine
   0
 LINE
   5
-2126
+2125
 100
 AcDbEntity
   8
@@ -206513,7 +206489,7 @@ AcDbLine
   0
 LINE
   5
-2127
+2126
 100
 AcDbEntity
   8
@@ -206537,7 +206513,7 @@ AcDbLine
   0
 LINE
   5
-2128
+2127
 100
 AcDbEntity
   8
@@ -206561,7 +206537,7 @@ AcDbLine
   0
 LINE
   5
-2129
+2128
 100
 AcDbEntity
   8
@@ -206585,7 +206561,7 @@ AcDbLine
   0
 LINE
   5
-212A
+2129
 100
 AcDbEntity
   8
@@ -206609,7 +206585,7 @@ AcDbLine
   0
 LINE
   5
-212B
+212A
 100
 AcDbEntity
   8
@@ -206633,7 +206609,7 @@ AcDbLine
   0
 LINE
   5
-212C
+212B
 100
 AcDbEntity
   8
@@ -206654,6 +206630,30 @@ AcDbLine
 137.5623952920756
  21
 148.6776274976064
+  0
+LINE
+  5
+212C
+100
+AcDbEntity
+  8
+Schwerter
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+137.5619509927455
+ 20
+134.535140584266
+ 11
+141.0974616462482
+ 21
+130.9994077810984
   0
 LINE
   5
@@ -206671,13 +206671,13 @@ ByLayer
 100
 AcDbLine
  10
-137.5619509927455
+141.0981280952433
  20
-134.535140584266
+152.2131381511091
  11
-141.0974616462482
+137.5623952920756
  21
-130.9994077810984
+148.6776274976064
   0
 LINE
   5
@@ -206695,30 +206695,6 @@ ByLayer
 100
 AcDbLine
  10
-141.0981280952433
- 20
-152.2131381511091
- 11
-137.5623952920756
- 21
-148.6776274976064
-  0
-LINE
-  5
-212F
-100
-AcDbEntity
-  8
-Schwerter
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 137.5619509927455
  20
 134.535140584266
@@ -206729,7 +206705,7 @@ AcDbLine
   0
 LINE
   5
-2130
+212F
 100
 AcDbEntity
   8
@@ -206753,7 +206729,7 @@ AcDbLine
   0
 LINE
   5
-2131
+2130
 100
 AcDbEntity
   8
@@ -206777,7 +206753,7 @@ AcDbLine
   0
 LINE
   5
-2132
+2131
 100
 AcDbEntity
   8
@@ -206801,7 +206777,7 @@ AcDbLine
   0
 LINE
   5
-2133
+2132
 100
 AcDbEntity
   8
@@ -206825,7 +206801,7 @@ AcDbLine
   0
 LINE
   5
-2134
+2133
 100
 AcDbEntity
   8
@@ -206849,7 +206825,7 @@ AcDbLine
   0
 LINE
   5
-2135
+2134
 100
 AcDbEntity
   8
@@ -206873,7 +206849,7 @@ AcDbLine
   0
 LINE
   5
-2136
+2135
 100
 AcDbEntity
   8
@@ -206897,7 +206873,7 @@ AcDbLine
   0
 LINE
   5
-2137
+2136
 100
 AcDbEntity
   8
@@ -206921,7 +206897,7 @@ AcDbLine
   0
 LINE
   5
-2138
+2137
 100
 AcDbEntity
   8
@@ -206945,7 +206921,7 @@ AcDbLine
   0
 LINE
   5
-2139
+2138
 100
 AcDbEntity
   8
@@ -206969,7 +206945,7 @@ AcDbLine
   0
 LINE
   5
-213A
+2139
 100
 AcDbEntity
   8
@@ -206993,7 +206969,7 @@ AcDbLine
   0
 LINE
   5
-213B
+213A
 100
 AcDbEntity
   8
@@ -207017,7 +206993,7 @@ AcDbLine
   0
 LINE
   5
-213C
+213B
 100
 AcDbEntity
   8
@@ -207041,7 +207017,7 @@ AcDbLine
   0
 LINE
   5
-213D
+213C
 100
 AcDbEntity
   8
@@ -207065,7 +207041,7 @@ AcDbLine
   0
 LINE
   5
-213E
+213D
 100
 AcDbEntity
   8
@@ -207089,7 +207065,7 @@ AcDbLine
   0
 LINE
   5
-213F
+213E
 100
 AcDbEntity
   8
@@ -207113,7 +207089,7 @@ AcDbLine
   0
 LINE
   5
-2140
+213F
 100
 AcDbEntity
   8
@@ -207137,7 +207113,7 @@ AcDbLine
   0
 LINE
   5
-2141
+2140
 100
 AcDbEntity
   8
@@ -207161,7 +207137,7 @@ AcDbLine
   0
 LINE
   5
-2142
+2141
 100
 AcDbEntity
   8
@@ -207185,7 +207161,7 @@ AcDbLine
   0
 LINE
   5
-2143
+2142
 100
 AcDbEntity
   8
@@ -207209,7 +207185,7 @@ AcDbLine
   0
 LINE
   5
-2144
+2143
 100
 AcDbEntity
   8
@@ -207233,7 +207209,7 @@ AcDbLine
   0
 LINE
   5
-2145
+2144
 100
 AcDbEntity
   8
@@ -207257,7 +207233,7 @@ AcDbLine
   0
 LINE
   5
-2146
+2145
 100
 AcDbEntity
   8
@@ -207281,7 +207257,7 @@ AcDbLine
   0
 LINE
   5
-2147
+2146
 100
 AcDbEntity
   8
@@ -207305,7 +207281,7 @@ AcDbLine
   0
 LINE
   5
-2148
+2147
 100
 AcDbEntity
   8
@@ -207329,7 +207305,7 @@ AcDbLine
   0
 LINE
   5
-2149
+2148
 100
 AcDbEntity
   8
@@ -207353,7 +207329,7 @@ AcDbLine
   0
 LINE
   5
-214A
+2149
 100
 AcDbEntity
   8
@@ -207377,7 +207353,7 @@ AcDbLine
   0
 LINE
   5
-214B
+214A
 100
 AcDbEntity
   8
@@ -207401,7 +207377,7 @@ AcDbLine
   0
 LINE
   5
-214C
+214B
 100
 AcDbEntity
   8
@@ -207425,7 +207401,7 @@ AcDbLine
   0
 LINE
   5
-214D
+214C
 100
 AcDbEntity
   8
@@ -207449,7 +207425,7 @@ AcDbLine
   0
 LINE
   5
-214E
+214D
 100
 AcDbEntity
   8
@@ -207473,7 +207449,7 @@ AcDbLine
   0
 LINE
   5
-214F
+214E
 100
 AcDbEntity
   8
@@ -207497,7 +207473,7 @@ AcDbLine
   0
 LINE
   5
-2150
+214F
 100
 AcDbEntity
   8
@@ -207521,7 +207497,7 @@ AcDbLine
   0
 LINE
   5
-2151
+2150
 100
 AcDbEntity
   8
@@ -207545,7 +207521,7 @@ AcDbLine
   0
 LINE
   5
-2152
+2151
 100
 AcDbEntity
   8
@@ -207566,6 +207542,30 @@ AcDbLine
 73.92053773304795
  21
 127.4658964745807
+  0
+LINE
+  5
+2152
+100
+AcDbEntity
+  8
+Schwerter
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+73.92053773304795
+ 20
+127.4658964745807
+ 11
+77.45627053621567
+ 21
+131.0014071280833
   0
 LINE
   5
@@ -207583,30 +207583,6 @@ ByLayer
 100
 AcDbLine
  10
-73.92053773304795
- 20
-127.4658964745807
- 11
-77.45627053621567
- 21
-131.0014071280833
-  0
-LINE
-  5
-2154
-100
-AcDbEntity
-  8
-Schwerter
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 77.45627053621567
  20
 131.0014071280833
@@ -207617,7 +207593,7 @@ AcDbLine
   0
 LINE
   5
-2155
+2154
 100
 AcDbEntity
   8
@@ -207641,7 +207617,7 @@ AcDbLine
   0
 LINE
   5
-2156
+2155
 100
 AcDbEntity
   8
@@ -207665,7 +207641,7 @@ AcDbLine
   0
 LINE
   5
-2157
+2156
 100
 AcDbEntity
   8
@@ -207689,7 +207665,7 @@ AcDbLine
   0
 LINE
   5
-2158
+2157
 100
 AcDbEntity
   8
@@ -207713,7 +207689,7 @@ AcDbLine
   0
 LINE
   5
-2159
+2158
 100
 AcDbEntity
   8
@@ -207737,7 +207713,7 @@ AcDbLine
   0
 LINE
   5
-215A
+2159
 100
 AcDbEntity
   8
@@ -207761,7 +207737,7 @@ AcDbLine
   0
 LINE
   5
-215B
+215A
 100
 AcDbEntity
   8
@@ -207785,7 +207761,7 @@ AcDbLine
   0
 LINE
   5
-215C
+215B
 100
 AcDbEntity
   8
@@ -207809,7 +207785,7 @@ AcDbLine
   0
 LINE
   5
-215D
+215C
 100
 AcDbEntity
   8
@@ -207833,7 +207809,7 @@ AcDbLine
   0
 LINE
   5
-215E
+215D
 100
 AcDbEntity
   8
@@ -207857,7 +207833,7 @@ AcDbLine
   0
 LINE
   5
-215F
+215E
 100
 AcDbEntity
   8
@@ -207881,7 +207857,7 @@ AcDbLine
   0
 LINE
   5
-2160
+215F
 100
 AcDbEntity
   8
@@ -207905,7 +207881,7 @@ AcDbLine
   0
 LINE
   5
-2161
+2160
 100
 AcDbEntity
   8
@@ -207929,7 +207905,7 @@ AcDbLine
   0
 LINE
   5
-2162
+2161
 100
 AcDbEntity
   8
@@ -207953,7 +207929,7 @@ AcDbLine
   0
 LINE
   5
-2163
+2162
 100
 AcDbEntity
   8
@@ -207977,7 +207953,7 @@ AcDbLine
   0
 LINE
   5
-2164
+2163
 100
 AcDbEntity
   8
@@ -208001,7 +207977,7 @@ AcDbLine
   0
 LINE
   5
-2165
+2164
 100
 AcDbEntity
   8
@@ -208025,7 +208001,7 @@ AcDbLine
   0
 LINE
   5
-2166
+2165
 100
 AcDbEntity
   8
@@ -208049,7 +208025,7 @@ AcDbLine
   0
 LINE
   5
-2167
+2166
 100
 AcDbEntity
   8
@@ -208073,7 +208049,7 @@ AcDbLine
   0
 LINE
   5
-2168
+2167
 100
 AcDbEntity
   8
@@ -208097,7 +208073,7 @@ AcDbLine
   0
 LINE
   5
-2169
+2168
 100
 AcDbEntity
   8
@@ -208121,7 +208097,7 @@ AcDbLine
   0
 LINE
   5
-216A
+2169
 100
 AcDbEntity
   8
@@ -208145,7 +208121,7 @@ AcDbLine
   0
 LINE
   5
-216B
+216A
 100
 AcDbEntity
   8
@@ -208169,7 +208145,7 @@ AcDbLine
   0
 LINE
   5
-216C
+216B
 100
 AcDbEntity
   8
@@ -208193,7 +208169,7 @@ AcDbLine
   0
 LINE
   5
-216D
+216C
 100
 AcDbEntity
   8
@@ -208217,7 +208193,7 @@ AcDbLine
   0
 LINE
   5
-216E
+216D
 100
 AcDbEntity
   8
@@ -208241,7 +208217,7 @@ AcDbLine
   0
 LINE
   5
-216F
+216E
 100
 AcDbEntity
   8
@@ -208265,7 +208241,7 @@ AcDbLine
   0
 LINE
   5
-2170
+216F
 100
 AcDbEntity
   8
@@ -208289,7 +208265,7 @@ AcDbLine
   0
 LINE
   5
-2171
+2170
 100
 AcDbEntity
   8
@@ -208313,7 +208289,7 @@ AcDbLine
   0
 LINE
   5
-2172
+2171
 100
 AcDbEntity
   8
@@ -208337,7 +208313,7 @@ AcDbLine
   0
 LINE
   5
-2173
+2172
 100
 AcDbEntity
   8
@@ -208361,7 +208337,7 @@ AcDbLine
   0
 LINE
   5
-2174
+2173
 100
 AcDbEntity
   8
@@ -208385,7 +208361,7 @@ AcDbLine
   0
 LINE
   5
-2175
+2174
 100
 AcDbEntity
   8
@@ -208409,7 +208385,7 @@ AcDbLine
   0
 LINE
   5
-2176
+2175
 100
 AcDbEntity
   8
@@ -208433,7 +208409,7 @@ AcDbLine
   0
 LINE
   5
-2177
+2176
 100
 AcDbEntity
   8
@@ -208457,7 +208433,7 @@ AcDbLine
   0
 LINE
   5
-2178
+2177
 100
 AcDbEntity
   8
@@ -208481,7 +208457,7 @@ AcDbLine
   0
 LINE
   5
-2179
+2178
 100
 AcDbEntity
   8
@@ -208505,7 +208481,7 @@ AcDbLine
   0
 LINE
   5
-217A
+2179
 100
 AcDbEntity
   8
@@ -208529,7 +208505,7 @@ AcDbLine
   0
 LINE
   5
-217B
+217A
 100
 AcDbEntity
   8
@@ -208553,7 +208529,7 @@ AcDbLine
   0
 LINE
   5
-217C
+217B
 100
 AcDbEntity
   8
@@ -208577,7 +208553,7 @@ AcDbLine
   0
 LINE
   5
-217D
+217C
 100
 AcDbEntity
   8
@@ -208601,7 +208577,7 @@ AcDbLine
   0
 LINE
   5
-217E
+217D
 100
 AcDbEntity
   8
@@ -208622,6 +208598,30 @@ AcDbLine
 137.5646167887259
  21
 219.3900620643089
+  0
+LINE
+  5
+217E
+100
+AcDbEntity
+  8
+Schwerter
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+137.5650610880558
+ 20
+233.5325489776493
+ 11
+141.1007938912236
+ 21
+237.0680596311519
   0
 LINE
   5
@@ -208639,13 +208639,13 @@ ByLayer
 100
 AcDbLine
  10
-137.5650610880558
+141.1001274422285
  20
-233.5325489776493
+215.8543292611412
  11
-141.1007938912236
+137.5646167887259
  21
-237.0680596311519
+219.3900620643089
   0
 LINE
   5
@@ -208663,30 +208663,6 @@ ByLayer
 100
 AcDbLine
  10
-141.1001274422285
- 20
-215.8543292611412
- 11
-137.5646167887259
- 21
-219.3900620643089
-  0
-LINE
-  5
-2181
-100
-AcDbEntity
-  8
-Schwerter
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 137.5650610880558
  20
 233.5325489776493
@@ -208697,7 +208673,7 @@ AcDbLine
   0
 LINE
   5
-2182
+2181
 100
 AcDbEntity
   8
@@ -208721,7 +208697,7 @@ AcDbLine
   0
 LINE
   5
-2183
+2182
 100
 AcDbEntity
   8
@@ -208745,7 +208721,7 @@ AcDbLine
   0
 LINE
   5
-2184
+2183
 100
 AcDbEntity
   8
@@ -208769,7 +208745,7 @@ AcDbLine
   0
 LINE
   5
-2185
+2184
 100
 AcDbEntity
   8
@@ -208793,7 +208769,7 @@ AcDbLine
   0
 LINE
   5
-2186
+2185
 100
 AcDbEntity
   8
@@ -208817,7 +208793,7 @@ AcDbLine
   0
 LINE
   5
-2187
+2186
 100
 AcDbEntity
   8
@@ -208841,7 +208817,7 @@ AcDbLine
   0
 LINE
   5
-2188
+2187
 100
 AcDbEntity
   8
@@ -208865,7 +208841,7 @@ AcDbLine
   0
 LINE
   5
-2189
+2188
 100
 AcDbEntity
   8
@@ -208889,7 +208865,7 @@ AcDbLine
   0
 LINE
   5
-218A
+2189
 100
 AcDbEntity
   8
@@ -208913,7 +208889,7 @@ AcDbLine
   0
 LINE
   5
-218B
+218A
 100
 AcDbEntity
   8
@@ -208937,7 +208913,7 @@ AcDbLine
   0
 LINE
   5
-218C
+218B
 100
 AcDbEntity
   8
@@ -208961,7 +208937,7 @@ AcDbLine
   0
 LINE
   5
-218D
+218C
 100
 AcDbEntity
   8
@@ -208985,7 +208961,7 @@ AcDbLine
   0
 LINE
   5
-218E
+218D
 100
 AcDbEntity
   8
@@ -209009,7 +208985,7 @@ AcDbLine
   0
 LINE
   5
-218F
+218E
 100
 AcDbEntity
   8
@@ -209033,7 +209009,7 @@ AcDbLine
   0
 LINE
   5
-2190
+218F
 100
 AcDbEntity
   8
@@ -209057,7 +209033,7 @@ AcDbLine
   0
 LINE
   5
-2191
+2190
 100
 AcDbEntity
   8
@@ -209081,7 +209057,7 @@ AcDbLine
   0
 LINE
   5
-2192
+2191
 100
 AcDbEntity
   8
@@ -209105,7 +209081,7 @@ AcDbLine
   0
 LINE
   5
-2193
+2192
 100
 AcDbEntity
   8
@@ -209129,7 +209105,7 @@ AcDbLine
   0
 LINE
   5
-2194
+2193
 100
 AcDbEntity
   8
@@ -209153,7 +209129,7 @@ AcDbLine
   0
 LINE
   5
-2195
+2194
 100
 AcDbEntity
   8
@@ -209177,7 +209153,7 @@ AcDbLine
   0
 LINE
   5
-2196
+2195
 100
 AcDbEntity
   8
@@ -209201,7 +209177,7 @@ AcDbLine
   0
 LINE
   5
-2197
+2196
 100
 AcDbEntity
   8
@@ -209225,7 +209201,7 @@ AcDbLine
   0
 LINE
   5
-2198
+2197
 100
 AcDbEntity
   8
@@ -209249,7 +209225,7 @@ AcDbLine
   0
 LINE
   5
-2199
+2198
 100
 AcDbEntity
   8
@@ -209273,7 +209249,7 @@ AcDbLine
   0
 LINE
   5
-219A
+2199
 100
 AcDbEntity
   8
@@ -209297,7 +209273,7 @@ AcDbLine
   0
 LINE
   5
-219B
+219A
 100
 AcDbEntity
   8
@@ -209321,7 +209297,7 @@ AcDbLine
   0
 LINE
   5
-219C
+219B
 100
 AcDbEntity
   8
@@ -209345,7 +209321,7 @@ AcDbLine
   0
 LINE
   5
-219D
+219C
 100
 AcDbEntity
   8
@@ -209369,7 +209345,7 @@ AcDbLine
   0
 LINE
   5
-219E
+219D
 100
 AcDbEntity
   8
@@ -209393,7 +209369,7 @@ AcDbLine
   0
 LINE
   5
-219F
+219E
 100
 AcDbEntity
   8
@@ -209417,7 +209393,7 @@ AcDbLine
   0
 LINE
   5
-21A0
+219F
 100
 AcDbEntity
   8
@@ -209441,7 +209417,7 @@ AcDbLine
   0
 LINE
   5
-21A1
+21A0
 100
 AcDbEntity
   8
@@ -209465,7 +209441,7 @@ AcDbLine
   0
 LINE
   5
-21A2
+21A1
 100
 AcDbEntity
   8
@@ -209489,7 +209465,7 @@ AcDbLine
   0
 LINE
   5
-21A3
+21A2
 100
 AcDbEntity
   8
@@ -209513,7 +209489,7 @@ AcDbLine
   0
 LINE
   5
-21A4
+21A3
 100
 AcDbEntity
   8
@@ -209537,7 +209513,7 @@ AcDbLine
   0
 LINE
   5
-21A5
+21A4
 100
 AcDbEntity
   8
@@ -209561,7 +209537,7 @@ AcDbLine
   0
 LINE
   5
-21A6
+21A5
 100
 AcDbEntity
   8
@@ -209585,7 +209561,7 @@ AcDbLine
   0
 LINE
   5
-21A7
+21A6
 100
 AcDbEntity
   8
@@ -209609,7 +209585,7 @@ AcDbLine
   0
 LINE
   5
-21A8
+21A7
 100
 AcDbEntity
   8
@@ -209633,7 +209609,7 @@ AcDbLine
   0
 LINE
   5
-21A9
+21A8
 100
 AcDbEntity
   8
@@ -209657,7 +209633,7 @@ AcDbLine
   0
 LINE
   5
-21AA
+21A9
 100
 AcDbEntity
   8
@@ -209681,7 +209657,7 @@ AcDbLine
   0
 LINE
   5
-21AB
+21AA
 100
 AcDbEntity
   8
@@ -209705,7 +209681,7 @@ AcDbLine
   0
 LINE
   5
-21AC
+21AB
 100
 AcDbEntity
   8
@@ -209729,7 +209705,7 @@ AcDbLine
   0
 LINE
   5
-21AD
+21AC
 100
 AcDbEntity
   8
@@ -209753,7 +209729,7 @@ AcDbLine
   0
 LINE
   5
-21AE
+21AD
 100
 AcDbEntity
   8
@@ -209777,7 +209753,7 @@ AcDbLine
   0
 LINE
   5
-21AF
+21AE
 100
 AcDbEntity
   8
@@ -209801,7 +209777,7 @@ AcDbLine
   0
 LINE
   5
-21B0
+21AF
 100
 AcDbEntity
   8
@@ -209825,7 +209801,7 @@ AcDbLine
   0
 LINE
   5
-21B1
+21B0
 100
 AcDbEntity
   8
@@ -209849,7 +209825,7 @@ AcDbLine
   0
 LINE
   5
-21B2
+21B1
 100
 AcDbEntity
   8
@@ -209873,7 +209849,7 @@ AcDbLine
   0
 LINE
   5
-21B3
+21B2
 100
 AcDbEntity
   8
@@ -209897,7 +209873,7 @@ AcDbLine
   0
 LINE
   5
-21B4
+21B3
 100
 AcDbEntity
   8
@@ -209921,7 +209897,7 @@ AcDbLine
   0
 LINE
   5
-21B5
+21B4
 100
 AcDbEntity
   8
@@ -209945,7 +209921,7 @@ AcDbLine
   0
 LINE
   5
-21B6
+21B5
 100
 AcDbEntity
   8
@@ -209969,7 +209945,7 @@ AcDbLine
   0
 LINE
   5
-21B7
+21B6
 100
 AcDbEntity
   8
@@ -209993,7 +209969,7 @@ AcDbLine
   0
 LINE
   5
-21B8
+21B7
 100
 AcDbEntity
   8
@@ -210017,7 +209993,7 @@ AcDbLine
   0
 LINE
   5
-21B9
+21B8
 100
 AcDbEntity
   8
@@ -210041,7 +210017,7 @@ AcDbLine
   0
 LINE
   5
-21BA
+21B9
 100
 AcDbEntity
   8
@@ -210065,7 +210041,7 @@ AcDbLine
   0
 LINE
   5
-21BB
+21BA
 100
 AcDbEntity
   8
@@ -210089,7 +210065,7 @@ AcDbLine
   0
 LINE
   5
-21BC
+21BB
 100
 AcDbEntity
   8
@@ -210113,7 +210089,7 @@ AcDbLine
   0
 LINE
   5
-21BD
+21BC
 100
 AcDbEntity
   8
@@ -210137,7 +210113,7 @@ AcDbLine
   0
 LINE
   5
-21BE
+21BD
 100
 AcDbEntity
   8
@@ -210161,7 +210137,7 @@ AcDbLine
   0
 LINE
   5
-21BF
+21BE
 100
 AcDbEntity
   8
@@ -210185,7 +210161,7 @@ AcDbLine
   0
 LINE
   5
-21C0
+21BF
 100
 AcDbEntity
   8
@@ -210209,7 +210185,7 @@ AcDbLine
   0
 LINE
   5
-21C1
+21C0
 100
 AcDbEntity
   8
@@ -210233,7 +210209,7 @@ AcDbLine
   0
 LINE
   5
-21C2
+21C1
 100
 AcDbEntity
   8
@@ -210257,487 +210233,7 @@ AcDbLine
   0
 LINE
   5
-21C3
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-169.6322640336527
- 20
-110.0319961383684
- 11
-182.7813488500992
- 21
-123.1802547994037
-  0
-LINE
-  5
-21C4
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-176.7051435143201
- 20
-110.0317739373061
- 11
-182.781126649037
- 21
-116.1073753187364
-  0
-LINE
-  5
-21C5
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-162.5593845529853
- 20
-110.0322183394306
- 11
-182.7815710511615
- 21
-130.2531342800711
-  0
-LINE
-  5
-21C6
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-155.486505072318
- 20
-110.0324405404928
- 11
-182.7817932522237
- 21
-137.3260137607387
-  0
-LINE
-  5
-21C7
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-148.4152616156475
- 20
-110.0326626901579
- 11
-182.7820154018887
- 21
-144.3972572174088
-  0
-LINE
-  5
-21C8
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-141.3440181589773
- 20
-110.0328848398229
- 11
-182.7822375515538
- 21
-151.4685006740792
-  0
-LINE
-  5
-21C9
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-134.2727747023071
- 20
-110.0331069894879
- 11
-182.7824597012188
- 21
-158.5397441307494
-  0
-LINE
-  5
-21CA
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-127.2015312456367
- 20
-110.033329139153
- 11
-182.7826818508838
- 21
-165.6109875874197
-  0
-LINE
-  5
-21CB
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-120.1302877889666
- 20
-110.033551288818
- 11
-182.7829040005489
- 21
-172.68223104409
-  0
-LINE
-  5
-21CC
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-113.0590443322963
- 20
-110.033773438483
- 11
-182.7831261502139
- 21
-179.7534745007603
-  0
-LINE
-  5
-21CD
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-105.9878008756259
- 20
-110.033995588148
- 11
-182.7833482998789
- 21
-186.8247179574305
-  0
-LINE
-  5
-21CE
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-98.91655741895576
- 20
-110.0342177378131
- 11
-182.7835704495439
- 21
-193.8959614141007
-  0
-LINE
-  5
-21CF
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-91.8453139622855
- 20
-110.0344398874781
- 11
-182.7837925992089
- 21
-200.967204870771
-  0
-LINE
-  5
-21D0
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-84.7740705056153
- 20
-110.0346620371431
- 11
-182.784014748874
- 21
-208.0384483274412
-  0
-LINE
-  5
-21D1
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-77.7028270489451
- 20
-110.0348841868082
- 11
-182.784236898539
- 21
-215.1096917841115
-  0
-LINE
-  5
-21D2
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-70.63158359227472
- 20
-110.0351063364732
- 11
-182.784459048204
- 21
-222.1809352407816
-  0
-LINE
-  5
-21D3
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-63.56034013560448
- 20
-110.0353284861382
- 11
-182.7846811978691
- 21
-229.252178697452
-  0
-LINE
-  5
-21D4
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-56.48909667893439
- 20
-110.0355506358032
- 11
-182.7849033475341
- 21
-236.3234221541221
-  0
-LINE
-  5
-21D5
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-49.41785322226405
- 20
-110.0357727854683
- 11
-182.7851254971991
- 21
-243.3946656107925
-  0
-LINE
-  5
-21D6
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-169.6412971472632
- 20
-258.0336782002718
- 11
-182.7851724423767
- 21
-244.8889770251706
-  0
-LINE
-  5
-21D7
+21C2
 100
 AcDbEntity
   8
@@ -210761,7 +210257,7 @@ AcDbLine
   0
 LINE
   5
-21D8
+21C3
 100
 AcDbEntity
   8
@@ -210785,943 +210281,7 @@ AcDbLine
   0
 LINE
   5
-21D9
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-42.34660976559393
- 20
-110.0359949351333
- 11
-182.7853476468642
- 21
-250.4659090674626
-  0
-LINE
-  5
-21DA
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-162.5700536905929
- 20
-258.0339003499368
- 11
-182.7849502927117
- 21
-237.8177335685001
-  0
-LINE
-  5
-21DB
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-155.4962583833799
- 20
-258.0341225797706
- 11
-182.7847280628779
- 21
-230.7439382612873
-  0
-LINE
-  5
-21DC
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-148.4224630761669
- 20
-258.0343448096044
- 11
-182.7845058330442
- 21
-223.6701429540745
-  0
-LINE
-  5
-21DD
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-141.348667768954
- 20
-258.0345670394382
- 11
-182.7842836032104
- 21
-216.5963476468617
-  0
-LINE
-  5
-21DE
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-134.2774243122836
- 20
-258.0347891891032
- 11
-182.7840614535453
- 21
-209.5251041901915
-  0
-LINE
-  5
-21DF
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-127.2061808556135
- 20
-258.0350113387682
- 11
-182.7838393038803
- 21
-202.4538607335211
-  0
-LINE
-  5
-21E0
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-120.1349373989434
- 20
-258.0352334884332
- 11
-182.7836171542153
- 21
-195.3826172768509
-  0
-LINE
-  5
-21E1
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-113.0636939422731
- 20
-258.0354556380983
- 11
-182.7833950045503
- 21
-188.3113738201806
-  0
-LINE
-  5
-21E2
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-105.9924504856025
- 20
-258.0356777877633
- 11
-182.7831728548853
- 21
-181.2401303635104
-  0
-LINE
-  5
-21E3
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-98.92120702893254
- 20
-258.0358999374283
- 11
-182.7829507052202
- 21
-174.1688869068403
-  0
-LINE
-  5
-21E4
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-91.84996357226225
- 20
-258.0361220870934
- 11
-182.7827285555552
- 21
-167.0976434501699
-  0
-LINE
-  5
-21E5
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-84.77872011559185
- 20
-258.0363442367584
- 11
-182.7825064058902
- 21
-160.0263999934998
-  0
-LINE
-  5
-21E6
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-77.70747665892173
- 20
-258.0365663864234
- 11
-182.7822842562252
- 21
-152.9551565368295
-  0
-LINE
-  5
-21E7
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-70.63623320225156
- 20
-258.0367885360885
- 11
-182.7820621065601
- 21
-145.8839130801592
-  0
-LINE
-  5
-21E8
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-63.56498974558129
- 20
-258.0370106857535
- 11
-182.7818399568951
- 21
-138.8126696234889
-  0
-LINE
-  5
-21E9
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-56.49374628891096
- 20
-258.0372328354185
- 11
-182.7816178072301
- 21
-131.7414261668187
-  0
-LINE
-  5
-21EA
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-49.4225028322407
- 20
-258.0374549850835
- 11
-182.781395657565
- 21
-124.6701827101485
-  0
-LINE
-  5
-21EB
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-42.35125937557053
- 20
-258.0376771347485
- 11
-182.7811735079
- 21
-117.5989392534781
-  0
-LINE
-  5
-21EC
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78115806812887
- 20
-117.1074760744574
- 11
-41.85217937513405
- 21
-110.0360104681221
-  0
-LINE
-  5
-21ED
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.7813802177939
- 20
-124.1787195311276
- 11
-48.92342283180426
- 21
-110.0357883184571
-  0
-LINE
-  5
-21EE
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78114253514003
- 20
-116.6130456839978
- 11
-176.2104546618453
- 21
-258.0334718241019
-  0
-LINE
-  5
-21EF
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78182451712394
- 20
-138.3212064444679
- 11
-63.06590974514469
- 21
-110.035344019127
-  0
-LINE
-  5
-21F0
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78204666678897
- 20
-145.3924499011381
- 11
-70.13715320181487
- 21
-110.035121869462
-  0
-LINE
-  5
-21F1
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.782268816454
- 20
-152.4636933578081
- 11
-77.20839665848516
- 21
-110.034899719797
-  0
-LINE
-  5
-21F2
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78249096611903
- 20
-159.5349368144785
- 11
-84.27964011515544
- 21
-110.034677570132
-  0
-LINE
-  5
-21F3
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78271311578406
- 20
-166.6061802711489
- 11
-91.35088357182562
- 21
-110.0344554204669
-  0
-LINE
-  5
-21F4
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78293526544908
- 20
-173.677423727819
- 11
-98.42212702849574
- 21
-110.0342332708019
-  0
-LINE
-  5
-21F5
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78315741511411
- 20
-180.7486671844892
- 11
-105.4933704851661
- 21
-110.0340111211369
-  0
-LINE
-  5
-21F6
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78337956477914
- 20
-187.8199106411595
- 11
-112.5646139418365
- 21
-110.0337889714718
-  0
-LINE
-  5
-21F7
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78360171444417
- 20
-194.8911540978299
- 11
-119.6358573985064
- 21
-110.0335668218068
-  0
-LINE
-  5
-21F8
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78382386410919
- 20
-201.9623975545001
- 11
-126.7071008551768
- 21
-110.0333446721418
-  0
-LINE
-  5
-21F9
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78404601377422
- 20
-209.0336410111703
- 11
-133.7783443118471
- 21
-110.0331225224768
-  0
-LINE
-  5
-21FA
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78426816343924
- 20
-216.1048844678404
- 11
-140.8495877685173
- 21
-110.0329003728117
-  0
-LINE
-  5
-21FB
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78449031310427
- 20
-223.1761279245108
- 11
-147.9208312251875
- 21
-110.0326782231467
-  0
-LINE
-  5
-21FC
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.7847124627693
- 20
-230.247371381181
- 11
-154.992074681858
- 21
-110.0324560734817
-  0
-LINE
-  5
-21FD
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78493461243433
- 20
-237.3186148378514
- 11
-162.0633181385282
- 21
-110.0322339238166
-  0
-LINE
-  5
-21FE
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78537891176438
- 20
-251.4611017511918
- 11
-176.2058050518686
- 21
-110.0317896244866
-  0
-LINE
-  5
-21FF
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78515676209935
- 20
-244.3898582945216
- 11
-169.1345615951983
- 21
-110.0320117741516
-  0
-LINE
-  5
-2200
+21C4
 100
 AcDbEntity
   8
@@ -211745,487 +210305,7 @@ AcDbLine
   0
 LINE
   5
-2201
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78536337877555
- 20
-250.9666713607332
- 11
-41.85682898510986
- 21
-258.0376926677374
-  0
-LINE
-  5
-2202
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78514122911052
- 20
-243.8954279040629
- 11
-48.92807244178028
- 21
-258.0374705180723
-  0
-LINE
-  5
-2203
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78491907944549
- 20
-236.8241844473926
- 11
-55.99931589845067
- 21
-258.0372483684073
-  0
-LINE
-  5
-2204
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78469692978047
- 20
-229.7529409907223
- 11
-63.07055935512106
- 21
-258.0370262187423
-  0
-LINE
-  5
-2205
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78447478011545
- 20
-222.6816975340519
- 11
-70.14180281179151
- 21
-258.0368040690773
-  0
-LINE
-  5
-2206
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78425263045042
- 20
-215.6104540773816
- 11
-77.21304626846157
- 21
-258.0365819194122
-  0
-LINE
-  5
-2207
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78403048078539
- 20
-208.5392106207112
- 11
-84.28428972513183
- 21
-258.0363597697472
-  0
-LINE
-  5
-2208
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78380833112036
- 20
-201.4679671640409
- 11
-91.3555331818022
- 21
-258.0361376200822
-  0
-LINE
-  5
-2209
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78358618145533
- 20
-194.3967237073707
- 11
-98.42677663847249
- 21
-258.0359154704171
-  0
-LINE
-  5
-220A
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78336403179031
- 20
-187.3254802507003
- 11
-95.13804464736427
- 21
-247.6763687889798
-  0
-LINE
-  5
-220B
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78291973246025
- 20
-173.1829933373599
- 11
-119.6405070084833
- 21
-258.0352490214221
-  0
-LINE
-  5
-220C
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78314188212528
- 20
-180.2542367940299
- 11
-112.5692635518132
- 21
-258.0354711710871
-  0
-LINE
-  5
-220D
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78269758279523
- 20
-166.1117498806895
- 11
-126.7117504651537
- 21
-258.0350268717571
-  0
-LINE
-  5
-220E
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.7824754331302
- 20
-159.0405064240192
- 11
-133.7829939218238
- 21
-258.034804722092
-  0
-LINE
-  5
-220F
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78225328346517
- 20
-151.969262967349
- 11
-140.8542373784939
- 21
-258.034582572427
-  0
-LINE
-  5
-2210
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78180898413512
- 20
-137.8267760540085
- 11
-154.9967242918346
- 21
-258.0341382730969
-  0
-LINE
-  5
-2211
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78203113380015
- 20
-144.8980195106788
- 11
-147.9254808351645
- 21
-258.0343604227619
-  0
-LINE
-  5
-2212
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78158683447009
- 20
-130.7555325973383
- 11
-162.0679677485047
- 21
-258.0339161234319
-  0
-LINE
-  5
-2213
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78160236745892
- 20
-131.2499629877977
- 11
-55.99466628847447
- 21
-110.0355661687921
-  0
-LINE
-  5
-2214
-100
-AcDbEntity
-  8
-Raster
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.78136468480506
- 20
-123.684289140668
- 11
-169.1392112051749
- 21
-258.0336939737668
-  0
-LINE
-  5
-2215
+21C5
 100
 AcDbEntity
   8
@@ -212249,7 +210329,7 @@ AcDbLine
   0
 DIMENSION
   5
-2216
+21C6
 100
 AcDbEntity
   8
@@ -212311,7 +210391,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-2217
+21C7
 100
 AcDbEntity
   8
@@ -212371,7 +210451,7 @@ AcDbRotatedDimension
   0
 LINE
   5
-2218
+21C8
 100
 AcDbEntity
   8
@@ -212395,7 +210475,7 @@ AcDbLine
   0
 LINE
   5
-2219
+21C9
 100
 AcDbEntity
   8
@@ -212419,7 +210499,7 @@ AcDbLine
   0
 LINE
   5
-221A
+21CA
 100
 AcDbEntity
   8
@@ -212443,7 +210523,7 @@ AcDbLine
   0
 LINE
   5
-221B
+21CB
 100
 AcDbEntity
   8
@@ -212467,7 +210547,7 @@ AcDbLine
   0
 LINE
   5
-221C
+21CC
 100
 AcDbEntity
   8
@@ -212491,7 +210571,7 @@ AcDbLine
   0
 LINE
   5
-221D
+21CD
 100
 AcDbEntity
   8
@@ -212515,7 +210595,7 @@ AcDbLine
   0
 LINE
   5
-221E
+21CE
 100
 AcDbEntity
   8
@@ -212539,7 +210619,7 @@ AcDbLine
   0
 LINE
   5
-221F
+21CF
 100
 AcDbEntity
   8
@@ -212563,7 +210643,7 @@ AcDbLine
   0
 LINE
   5
-2220
+21D0
 100
 AcDbEntity
   8
@@ -212587,7 +210667,7 @@ AcDbLine
   0
 LINE
   5
-2221
+21D1
 100
 AcDbEntity
   8
@@ -212611,7 +210691,7 @@ AcDbLine
   0
 LINE
   5
-2222
+21D2
 100
 AcDbEntity
   8
@@ -212635,7 +210715,7 @@ AcDbLine
   0
 LINE
   5
-2223
+21D3
 100
 AcDbEntity
   8
@@ -212659,7 +210739,7 @@ AcDbLine
   0
 LINE
   5
-2224
+21D4
 100
 AcDbEntity
   8
@@ -212683,7 +210763,7 @@ AcDbLine
   0
 LINE
   5
-2225
+21D5
 100
 AcDbEntity
   8
@@ -212707,7 +210787,7 @@ AcDbLine
   0
 LINE
   5
-2226
+21D6
 100
 AcDbEntity
   8
@@ -212731,7 +210811,7 @@ AcDbLine
   0
 LINE
   5
-2227
+21D7
 100
 AcDbEntity
   8
@@ -212755,7 +210835,7 @@ AcDbLine
   0
 LINE
   5
-2228
+21D8
 100
 AcDbEntity
   8
@@ -212779,7 +210859,7 @@ AcDbLine
   0
 LINE
   5
-2229
+21D9
 100
 AcDbEntity
   8
@@ -212803,7 +210883,7 @@ AcDbLine
   0
 LINE
   5
-222A
+21DA
 100
 AcDbEntity
   8
@@ -212827,7 +210907,7 @@ AcDbLine
   0
 LINE
   5
-222B
+21DB
 100
 AcDbEntity
   8
@@ -212851,7 +210931,7 @@ AcDbLine
   0
 LINE
   5
-222C
+21DC
 100
 AcDbEntity
   8
@@ -212875,7 +210955,7 @@ AcDbLine
   0
 LINE
   5
-222D
+21DD
 100
 AcDbEntity
   8
@@ -212899,7 +210979,7 @@ AcDbLine
   0
 MTEXT
   5
-222E
+21DE
 100
 AcDbEntity
   8
@@ -212942,6 +211022,1926 @@ unicode
     2
  44
 0.963855
+  0
+LINE
+  5
+21DF
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+80.99133689038845
+ 20
+113.3231874115753
+ 11
+182.784236898539
+ 21
+215.1096917841115
+  0
+LINE
+  5
+21E0
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56720839534216
+ 20
+219.393172159619
+ 11
+144.6325280004203
+ 21
+113.3211880645901
+  0
+LINE
+  5
+21E1
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56698624567713
+ 20
+212.3219287029487
+ 11
+137.5612845437501
+ 21
+113.3214102142551
+  0
+LINE
+  5
+21E2
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56654194634707
+ 20
+198.1794417896083
+ 11
+123.4187976304096
+ 21
+113.3218545135852
+  0
+LINE
+  5
+21E3
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56409830003177
+ 20
+120.3957637662358
+ 11
+45.6351196070371
+ 21
+113.3242981599005
+  0
+LINE
+  5
+21E4
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5643204496968
+ 20
+127.467007222906
+ 11
+52.7063630637073
+ 21
+113.3240760102354
+  0
+LINE
+  5
+21E5
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56454259936183
+ 20
+134.5382506795762
+ 11
+59.7776065203775
+ 21
+113.3238538605704
+  0
+LINE
+  5
+21E6
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56476474902686
+ 20
+141.6094941362464
+ 11
+66.84884997704771
+ 21
+113.3236317109054
+  0
+LINE
+  5
+21E7
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56520904835691
+ 20
+155.7519810495868
+ 11
+80.99133689038827
+ 21
+113.3231874115753
+  0
+LINE
+  5
+21E8
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56543119802194
+ 20
+162.8232245062571
+ 11
+88.06258034705844
+ 21
+113.3229652619103
+  0
+LINE
+  5
+21E9
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56565334768697
+ 20
+169.8944679629273
+ 11
+95.13382380372857
+ 21
+113.3227431122453
+  0
+LINE
+  5
+21EA
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56498689869188
+ 20
+148.6807375929164
+ 11
+73.92009343371797
+ 21
+113.3234095612403
+  0
+LINE
+  5
+21EB
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56587549735199
+ 20
+176.9657114195975
+ 11
+102.2050672603989
+ 21
+113.3225209625802
+  0
+LINE
+  5
+21EC
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56631979668204
+ 20
+191.1081983329382
+ 11
+116.3475541737393
+ 21
+113.3220766632502
+  0
+LINE
+  5
+21ED
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56609764701702
+ 20
+184.0369548762678
+ 11
+109.2763107170693
+ 21
+113.3222988129152
+  0
+LINE
+  5
+21EE
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5667640960121
+ 20
+205.2506852462786
+ 11
+130.49004108708
+ 21
+113.3216323639201
+  0
+LINE
+  5
+21EF
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56743054500718
+ 20
+226.4644156162892
+ 11
+151.7037714570908
+ 21
+113.320965914925
+  0
+LINE
+  5
+21F0
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5676526946722
+ 20
+233.5356590729596
+ 11
+158.775014913761
+ 21
+113.32074376526
+  0
+LINE
+  5
+21F1
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56787484433723
+ 20
+240.6069025296298
+ 11
+165.8462583704311
+ 21
+113.320521615595
+  0
+LINE
+  5
+21F2
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56809699400226
+ 20
+247.6781459863
+ 11
+172.9175018271015
+ 21
+113.3202994659299
+  0
+LINE
+  5
+21F3
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56389168335558
+ 20
+113.818950700025
+ 11
+38.56831914366729
+ 21
+254.7493894429705
+  0
+LINE
+  5
+21F4
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56809699400226
+ 20
+247.6781459863007
+ 11
+45.63956260033711
+ 21
+254.7491672933054
+  0
+LINE
+  5
+21F5
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56743054500718
+ 20
+226.4644156162898
+ 11
+66.85329297034831
+ 21
+254.7485008443103
+  0
+LINE
+  5
+21F6
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56720839534216
+ 20
+219.3931721596194
+ 11
+73.92453642701841
+ 21
+254.7482786946453
+  0
+LINE
+  5
+21F7
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+66.85329297034828
+ 20
+254.7485008443103
+ 11
+182.7818399568951
+ 21
+138.8126696234889
+  0
+LINE
+  5
+21F8
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5667640960121
+ 20
+205.2506852462788
+ 11
+88.06702334035904
+ 21
+254.7478343953152
+  0
+LINE
+  5
+21F9
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+80.99577988368871
+ 20
+254.7480565449802
+ 11
+182.7822842562252
+ 21
+152.9551565368295
+  0
+LINE
+  5
+21FA
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56631979668204
+ 20
+191.1081983329381
+ 11
+102.2095102536997
+ 21
+254.7473900959852
+  0
+LINE
+  5
+21FB
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56654194634707
+ 20
+198.1794417896085
+ 11
+95.13826679702933
+ 21
+254.7476122456502
+  0
+LINE
+  5
+21FC
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56698624567713
+ 20
+212.3219287029491
+ 11
+80.99577988368868
+ 21
+254.7480565449803
+  0
+LINE
+  5
+21FD
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5676526946722
+ 20
+233.5356590729601
+ 11
+59.78204951367785
+ 21
+254.7487229939753
+  0
+LINE
+  5
+21FE
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56787484433723
+ 20
+240.6069025296304
+ 11
+52.7108060570075
+ 21
+254.7489451436404
+  0
+LINE
+  5
+21FF
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56409830003177
+ 20
+120.3957637662357
+ 11
+172.9219448204021
+ 21
+254.7451685993349
+  0
+LINE
+  5
+2200
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.5643204496968
+ 20
+127.4670072229059
+ 11
+165.8507013637318
+ 21
+254.7453907489999
+  0
+LINE
+  5
+2201
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56454259936183
+ 20
+134.5382506795762
+ 11
+158.7794579070616
+ 21
+254.7456128986649
+  0
+LINE
+  5
+2202
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56476474902686
+ 20
+141.6094941362464
+ 11
+151.7082144503915
+ 21
+254.74583504833
+  0
+LINE
+  5
+2203
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56498689869188
+ 20
+148.6807375929167
+ 11
+144.6369709937214
+ 21
+254.746057197995
+  0
+LINE
+  5
+2204
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56520904835691
+ 20
+155.7519810495869
+ 11
+137.5657275370508
+ 21
+254.74627934766
+  0
+LINE
+  5
+2205
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56565334768697
+ 20
+169.8944679629274
+ 11
+123.4232406237105
+ 21
+254.7467236469901
+  0
+LINE
+  5
+2206
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.565875497352
+ 20
+176.9657114195978
+ 11
+116.3519971670401
+ 21
+254.7469457966551
+  0
+LINE
+  5
+2207
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56609764701702
+ 20
+184.0369548762678
+ 11
+109.28075371037
+ 21
+254.7471679463201
+  0
+LINE
+  5
+2208
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+45.6351196070373
+ 20
+113.3242981599005
+ 11
+179.9929661274073
+ 21
+247.6737029929993
+  0
+LINE
+  5
+2209
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+179.9931882770723
+ 20
+254.7449464496699
+ 11
+38.56831914366757
+ 21
+254.7493894429704
+  0
+LINE
+  5
+220A
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+52.70636306370741
+ 20
+113.3240760102354
+ 11
+179.9927439777423
+ 21
+240.6024595363292
+  0
+LINE
+  5
+220B
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+59.77760652037776
+ 20
+113.3238538605704
+ 11
+179.9925218280772
+ 21
+233.5312160796589
+  0
+LINE
+  5
+220C
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+66.84884997704785
+ 20
+113.3236317109054
+ 11
+179.9922996784122
+ 21
+226.4599726229887
+  0
+LINE
+  5
+220D
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+73.92009343371809
+ 20
+113.3234095612404
+ 11
+179.9920775287472
+ 21
+219.3887291663184
+  0
+LINE
+  5
+220E
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+130.4944840803804
+ 20
+254.7465014973251
+ 11
+179.9916332294171
+ 21
+205.246242252978
+  0
+LINE
+  5
+220F
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+88.06258034705867
+ 20
+113.3229652619103
+ 11
+179.9916332294171
+ 21
+205.246242252978
+  0
+LINE
+  5
+2210
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+95.13382380372886
+ 20
+113.3227431122453
+ 11
+179.9914110797521
+ 21
+198.1749987963078
+  0
+LINE
+  5
+2211
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+102.2050672603991
+ 20
+113.3225209625802
+ 11
+179.991188930087
+ 21
+191.1037553396375
+  0
+LINE
+  5
+2212
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+109.2763107170693
+ 20
+113.3222988129152
+ 11
+179.990966780422
+ 21
+184.0325118829672
+  0
+LINE
+  5
+2213
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+116.3475541737397
+ 20
+113.3220766632502
+ 11
+179.990744630757
+ 21
+176.961268426297
+  0
+LINE
+  5
+2214
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+123.4187976304099
+ 20
+113.3218545135852
+ 11
+179.990522481092
+ 21
+169.8900249696268
+  0
+LINE
+  5
+2215
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+130.4900410870801
+ 20
+113.3216323639201
+ 11
+179.990300331427
+ 21
+162.8187815129565
+  0
+LINE
+  5
+2216
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+137.5612845437505
+ 20
+113.3214102142551
+ 11
+179.9900781817619
+ 21
+155.7475380562862
+  0
+LINE
+  5
+2217
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+144.6325280004207
+ 20
+113.3211880645901
+ 11
+179.9898560320969
+ 21
+148.676294599616
+  0
+LINE
+  5
+2218
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+59.7820495136779
+ 20
+254.7487229939753
+ 11
+179.9894117327669
+ 21
+134.5338076862756
+  0
+LINE
+  5
+2219
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+158.7750149137613
+ 20
+113.32074376526
+ 11
+179.9894117327669
+ 21
+134.5338076862755
+  0
+LINE
+  5
+221A
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+151.7037714570909
+ 20
+113.320965914925
+ 11
+179.9896338824319
+ 21
+141.6050511429456
+  0
+LINE
+  5
+221B
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+165.8478943944287
+ 20
+113.3205215641978
+ 11
+179.9891895317046
+ 21
+127.4609282056079
+  0
+LINE
+  5
+221C
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+172.9207738750961
+ 20
+113.3202993631355
+ 11
+179.9889673306424
+ 21
+120.3880487249405
+  0
+LINE
+  5
+221D
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+52.71080605700765
+ 20
+254.7489451436404
+ 11
+179.9891895831018
+ 21
+127.4625642296054
+  0
+LINE
+  5
+221E
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+73.92453642701854
+ 20
+254.7482786946453
+ 11
+179.9898560320969
+ 21
+148.6762945996161
+  0
+LINE
+  5
+221F
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+88.06702334035883
+ 20
+254.7478343953152
+ 11
+179.990300331427
+ 21
+162.8187815129566
+  0
+LINE
+  5
+2220
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+95.13826679702922
+ 20
+254.7476122456502
+ 11
+179.990522481092
+ 21
+169.8900249696268
+  0
+LINE
+  5
+2221
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+102.2095102536995
+ 20
+254.7473900959852
+ 11
+179.990744630757
+ 21
+176.9612684262972
+  0
+LINE
+  5
+2222
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+109.2807537103695
+ 20
+254.7471679463201
+ 11
+179.990966780422
+ 21
+184.0325118829673
+  0
+LINE
+  5
+2223
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+45.63956260033748
+ 20
+254.7491672933054
+ 11
+179.9889674334368
+ 21
+120.3913207729349
+  0
+LINE
+  5
+2224
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+116.3519971670401
+ 20
+254.7469457966551
+ 11
+179.991188930087
+ 21
+191.1037553396375
+  0
+LINE
+  5
+2225
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+123.4232406237103
+ 20
+254.7467236469901
+ 11
+179.9914110797521
+ 21
+198.1749987963078
+  0
+LINE
+  5
+2226
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+137.5657275370505
+ 20
+254.74627934766
+ 11
+179.9918553790821
+ 21
+212.3174857096483
+  0
+LINE
+  5
+2227
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+144.636970993721
+ 20
+254.746057197995
+ 11
+179.9920775287472
+ 21
+219.3887291663186
+  0
+LINE
+  5
+2228
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+151.7107663009339
+ 20
+254.7458349681612
+ 11
+179.9922997585809
+ 21
+226.4625244735314
+  0
+LINE
+  5
+2229
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+158.7845616081468
+ 20
+254.7456127383275
+ 11
+179.9925219884147
+ 21
+233.5363197807442
+  0
+LINE
+  5
+222A
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+165.8583569153597
+ 20
+254.7453905084937
+ 11
+179.9927442182485
+ 21
+240.6101150879571
+  0
+LINE
+  5
+222B
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+172.9296003720301
+ 20
+254.7451683588286
+ 11
+179.9929663679135
+ 21
+247.6813585446275
+  0
+LINE
+  5
+222C
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+179.9887764026019
+ 20
+114.3106204428698
+ 11
+179.9931882770723
+ 21
+254.7449464496698
+  0
+LINE
+  5
+222D
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56387615036699
+ 20
+113.3245203095655
+ 11
+179.9887452837718
+ 21
+113.3200773162649
+  0
+LINE
+  5
+222E
+100
+AcDbEntity
+  8
+Raster
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.56543119802194
+ 20
+162.8232245062571
+ 11
+130.4944840803807
+ 21
+254.7465014973251
   0
 ENDSEC
   0
