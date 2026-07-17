@@ -1,2 +1,7 @@
 ~lock.*
 workdir*
+# LibreCAD Backup- und temporäre Dateien ignorieren
+*~
+#*
+.#*
+
